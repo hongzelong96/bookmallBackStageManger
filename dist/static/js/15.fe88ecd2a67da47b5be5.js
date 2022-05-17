@@ -1,0 +1,2 @@
+webpackJsonp([15],{K8vP:function(e,t){},xuKM:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("this is advertList")])},staticRenderFns:[]};var r=n("VU/8")({},i,!1,function(e){n("K8vP")},null,null);t.default=r.exports}});
+//# sourceMappingURL=15.fe88ecd2a67da47b5be5.js.map

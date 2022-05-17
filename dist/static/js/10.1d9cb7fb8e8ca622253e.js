@@ -1,0 +1,2 @@
+webpackJsonp([10],{"4RYo":function(e,t){},YSX7:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("this is custmuser")])},staticRenderFns:[]};var r=n("VU/8")({},s,!1,function(e){n("4RYo")},null,null);t.default=r.exports}});
+//# sourceMappingURL=10.1d9cb7fb8e8ca622253e.js.map
